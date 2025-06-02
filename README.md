@@ -33,6 +33,9 @@ Which AIs did you use and how much work did you really do on this tool?
 
 The code for this tool is kind of a frankenstein child of ChatGPT, Grok, Gemini, and Deepseek. Turns out, AI isn't nearly as good at coding as people say. While I didn't write the code, I did spend hours on troubleshooting lua errors, waiting for the various AIs to process my request, and writing just the right words to get the AIs to do code exactly what I had in mind. I used so many AIs because of limits their companies set on their free usage, and I found that AIs would quickly hallucinate if I tried to do more than a few prompts. There were would also be errors that one AI couldn't solve that another could. Clearly these companies still have a ways to go before perfecting AI LUA coding...
 
+Can you update/add something to this tool for me?
+No. I wasn't even planning on releasing this initially. I'm only publishing it now because I spent WAY too long on it and since I spent all this time on it I might as well post it and hope someone else finds it cool/usefull too. ¯\_(ツ)_/¯
+
 Can I change/improve this addon and upload my own version?
 
 Sure. While I did a lot of playtesting and error troubleshooting, ultimately AI made the code, and due to legal precedent (in the USA as of writing) I couldn't claim the rights to this code even if I wanted to since it wasn't made by a human.
