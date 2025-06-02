@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+    "name"              "Entity Finder Tool"
+    "version"           "1.0.0"
+    "author_name"       "Grok/GrandNoodleLite"
+    "description"       "A toolgun tool that detects and marks the nearest entity with a halo or red orb, and outputs its details in chat."
+    "info"              "Place in garrysmod/addons and use with the toolgun."
+}
