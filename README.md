@@ -8,7 +8,7 @@ This tool marks player and map entities with a red halo/outline that can be seen
 
 If the entity is far away, or behind a wall, your camera will snap to look in the direction of the entity. The camera will only snap in these instances in case you're trying to mark a bunch of entities around a single point.
 
-After an entity is marked, you can mart the 2nd nearest entity, 3rd nearest entity, 4th nearest entity etc.
+After an entity is marked, you can mark the 2nd nearest entity, 3rd nearest entity, 4th nearest entity etc.
 
 Primary Fire: Marks the nearest entity to the point you're looking at.
 Secondary Fire: Removes all marks, outlines, and orbs.
